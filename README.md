@@ -1,4 +1,10 @@
 # instrDAQ
+## Note & Features
+* Forked from https://github.com/cover-me/instrDAQ
+* Add support for Stanford Research SIM928 Isolated Voltage Source
+* Realize a sequence generator for dual-gate mapping via 2 Keithley 2400
+* Realize density / displacement scan by simultaneously scanning 2 Keithley 2400
+* 
 ## Description
 * This program acquires data from a group of instruments after triggering a continuous or discrete sweep from one of them.
 
